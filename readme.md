@@ -8,7 +8,7 @@
 </p>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=Shameer29" alt="Shameer👋"/></p>
 
-- 💻 Currently working as FSD Intern **@Guvi** Ex-WebDeveloper || Intern **@TWS123**
+- 💻 Currently working as FSD Intern **@Guvi** || Ex-WebDeveloper Intern **@TWS123**
 
 - 💌 Reach me here **instagram.com/sha_mi_shaaz**
 
