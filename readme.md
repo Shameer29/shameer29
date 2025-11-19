@@ -20,7 +20,7 @@
 
 - 💼 Tech Stack: C#, .NET, React.js, Node.js, SQL Server, Docker, Kubernetes, Terraform, AWS
 
-- 💌 Reach me here: **instagram.com/sha_mi_shaaz**
+- 💌 Reach me here: **https://www.linkedin.com/in/shameer-b-9b029518a/**
 
 <hr>
 <p align="center">
