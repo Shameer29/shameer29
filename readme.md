@@ -6,16 +6,25 @@
 <a href="https://www.linkedin.com/in/shameer-b-9b029518a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shameer👋" height="30" width="25" /></a>
 <a href="#" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Shameer👋" height="30" width="25" /></a>  
 </p>
-<p align="center">  <img src="https://komarev.com/ghpvc/?username=Shameer29" alt="Shameer👋"/></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shameer29&style=flat-square" alt="Shameer👋"/>
+</p>
 
-- 💻 Currently working as FSD Intern **@Guvi** || Ex-WebDeveloper Intern **@TWS123**
+- 💻 Currently working as a **Senior Software Engineer**  
+  (Enterprise-grade .NET, React, Cloud, DevOps, AI Integrations)
 
-- 💌 Reach me here **instagram.com/sha_mi_shaaz**
+- 🏢 Previously: **Full Stack Developer / Project Manager** 
+ 
 
+- 🤖 Building AI-driven automations, LLM workflows, cloud-native systems
 
+- 💼 Tech Stack: C#, .NET, React.js, Node.js, SQL Server, Docker, Kubernetes, Terraform, AWS
 
+- 💌 Reach me here: **instagram.com/sha_mi_shaaz**
 
-<hr><p align="center">
+<hr>
+<p align="center">
+
 <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
