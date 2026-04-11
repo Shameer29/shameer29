@@ -11,7 +11,7 @@
 </p>
 
 - 💻 Currently working as a **Senior Software Engineer**  
-  (Enterprise-grade .NET, React, Cloud, DevOps, AI Integrations)
+  (Enterprise-grade .NET, React,Node.js, javascript, Cloud, DevOps, AI Integrations)
 
 - 🏢 Previously: **Full Stack Developer / Project Manager** 
  
