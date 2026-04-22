@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 - 🚀 **Senior Software Engineer** — Enterprise-grade .NET, React, Node.js, Cloud & DevOps
-- 🏢 Previously: **Full Stack Developer / Project Manager**
+- 🏢 Previously: **Full Stack Developer**
 - 🤖 Building **AI-driven automations**, LLM workflows & cloud-native systems
 - 🌱 Always learning, growing and exploring
 - 💌 Connect: [linkedin.com/in/shameer-b-9b029518a](https://www.linkedin.com/in/shameer-b-9b029518a/)
